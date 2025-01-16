@@ -26,9 +26,9 @@
     "@angular/pwa": "^0.901.10",
     "@angular/router": "14.3.0",
     "@angular/service-worker": "^14.3.0",
-    "bootstrap": "^4.4.1",
+    "bootstrap": "^5.0.0",
     "core-js": "^2.6.11",
-    "dompurify": "^2.4.3",
+    "dompurify": "^2.5.4",
     "immutable": "^4.0.0-rc.12",
     "izitoast": "^1.4.0",
     "jquery": "^3.5.1",
@@ -42,7 +42,7 @@
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^14.2.11",
+    "@angular-devkit/build-angular": "^19.1.1",
     "@angular/cli": "14.2.11",
     "@angular/compiler-cli": "^14.3.0",
     "@fortawesome/fontawesome-free": "^5.12.0",
